@@ -1,0 +1,7 @@
+<!--pages/test/test.wxml-->
+<view>
+Hello World! ||  {{msg}}
+<view>
+<checkbox checked="{{true}}"></checkbox>
+</view>
+</view>

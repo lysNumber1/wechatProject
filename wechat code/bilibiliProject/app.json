@@ -1,0 +1,17 @@
+{
+  "components": [
+    "components/MyTitle/MyTitle"
+  ],
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "components/MyTitle/MyTitle"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
